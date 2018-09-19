@@ -1,4 +1,4 @@
 #a new feature
 
-![phoenix.png](C:\Users\fabio.costa\Documents\Fire\Phoenix.png)
+![phoenix.png](https://github.com/FabioFrost/Fire/blob/master/Phoenix.png)
 Better leave while I can still keep the dark phoenix at bay!
